@@ -13,7 +13,7 @@
       freeglut
       opencl-clang
       opencl-headers
-      opencl-info
+      clinfo
       openal
       libGL
       libGLU
